@@ -1,1 +1,2 @@
 # Cameron-Ramirez-
+Hello my name is Cameron Ramirez and I am from Tacoma, Washington. I am a freshman at Oregon State studying Math and Data Science. Outside of school I like to go outside especially hiking, soccer, and sailing. I choose to go into Data Science because I saw that it is the highest growing major currently and it pairs very well with a math major. With a DS major I hope to become an Actuary, when I was looking at careers within DS and Math, an actuary was something that was interesting to me.   
